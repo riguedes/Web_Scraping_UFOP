@@ -1,5 +1,5 @@
 # Web_Scraping_UFOP
-Utilização de linguagem de programação orientado a objeto para extrair dados dos sites de corpo docente da Universidade Federal de Ouro Preto (UFOP). O trabalho consiste em utilizar elementos da programação orientada a objetos para extrair dados dos sites de docentes da Universidade Federal de Ouro Preto (UFOP). Logo, foi utilizado o site do Departamento de Engenharia de Produção de João Monlevade (DEENP) disponível no link: https://deenp.ufop.br/corpo-docente.
+Utilização de linguagem de programação orientado a objeto para extrair dados dos sites de corpo docente da Universidade Federal de Ouro Preto (UFOP). O trabalho consiste em utilizar elementos da programação orientada a objetos para extrair dados dos sites de docentes da Universidade Federal de Ouro Preto (UFOP). Logo, foi utilizado o site do Departamento de Engenharia de Produção de João Monlevade (DEENP)  e o site do Departamento de Computação e Sistemas (DECSI).
 
 Os sites de docentes das universidades costumam ser recursos valiosos para estudantes e pesquisadores em busca de informações sobre os professores que ministram aulas e conduzem pesquisas em diversas áreas. Esses sites geralmente incluem:
 
