@@ -11,10 +11,6 @@ Os sites de docentes das universidades costumam ser recursos valiosos para estud
 
 **Linhas de Pesquisa:** Uma descrição das áreas de pesquisa em que os docentes estão envolvidos, juntamente com informações sobre projetos de pesquisa em andamento.
 
-**Publicações e Trabalhos:** Listagens de artigos, livros, capítulos de livros e outras publicações dos docentes, juntamente com links para acessá-los, quando disponíveis.
-
-**Atividades Acadêmicas e Profissionais:** Detalhes sobre participações em comitês, orientações de estudantes, palestras e outras atividades acadêmicas e profissionais.
-
 **Informações de Contato:** Endereço de e-mail e informações de escritório para que os alunos e outros interessados possam entrar em contato com os docentes.
 
 Os elementos a serem observados são:
